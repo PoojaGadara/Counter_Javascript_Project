@@ -1,0 +1,2 @@
+**Introducing a simple yet engaging JavaScript Counter Project! With just a click of buttons, you can effortlessly increment or decrement the count value. But that's not all—watch as the color of the count dynamically changes, adding a delightful visual touch to your experience. Take a peek at the project below
+**![image](https://github.com/PoojaGadara/Counter_Javascript_Project/assets/100752133/67d41281-5940-4cfb-a5a4-9ce7ef02f062)
